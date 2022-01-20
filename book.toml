@@ -4,3 +4,6 @@ language = "en"
 multilingual = true
 src = "src"
 title = "Open Source Rainforest Project - Open Source Primary Tutorial"
+
+[build]
+create-missing = false
