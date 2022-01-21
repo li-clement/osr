@@ -1,1 +1,1 @@
-# Open Source Lifecycle Managment
+# 开源生命周期管理
