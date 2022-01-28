@@ -1,1 +1,38 @@
-# 开源合规及其风险管理
+# 开源License遵从及其风险管理
+* License遵从基础知识
+    * 开源License遵从包含哪些内容
+    * 什么是开源License
+    * 常见开源License的权利和义务
+    * 许可证兼容性
+    * Copyright、专利、商标、商业秘密License遵从
+* License遵从标准和流程及工具
+    * OpenChain和SPDX标准
+    * 软件成分分析技术
+    * 可信社区标准的License遵从要求
+        * 开源软件引入License遵从要求
+        * 开源软件使用License遵从要求
+        * 开源软件维护License遵从要求
+        * 回馈社区License遵从要求
+    * License遵从工具
+        * License选择工具
+        * SPDX规范检查工具
+        * License扫描工具
+        * License信息共享平台
+        * 相似License对比工具
+        * License风险评估平台
+        * Copyright扫描工具
+* 企业使用开源软件的License遵从风险管理
+    * License义务遵从
+    * 开源License维权案例
+    * 开源Copyright风险及案例
+* 企业参与开源项目的License遵从风险管理
+    * 版权与签署CLA
+    * License冲突处理
+    * 履行开源义务
+* 企业对外开源项目的License遵从风险管理
+    * 项目License选择
+    * CLA设计
+    * 项目发布前的License遵从赋能
+    * 代码License遵从重构
+    * 社区coding-timeLicense遵从审查
+    * 社区building-timeLicense遵从审查
